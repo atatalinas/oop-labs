@@ -1,0 +1,9 @@
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\bin\Debug\RijndaelPlugin.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\bin\Debug\RijndaelPlugin.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\bin\Debug\PluginInterface.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\bin\Debug\PluginInterface.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\obj\Debug\RijndaelPlugin.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\obj\Debug\RijndaelPlugin.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\obj\Debug\RijndaelPlugin.csproj.CopyComplete
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\obj\Debug\RijndaelPlugin.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RijndaelPlugin\obj\Debug\RijndaelPlugin.pdb

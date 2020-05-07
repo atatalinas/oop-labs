@@ -1,0 +1,9 @@
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\bin\Debug\DesPlugin.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\bin\Debug\DesPlugin.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\bin\Debug\PluginInterface.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\bin\Debug\PluginInterface.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\obj\Debug\DesPlugin.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\obj\Debug\DesPlugin.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\obj\Debug\DesPlugin.csproj.CopyComplete
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\obj\Debug\DesPlugin.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\DesPlugin\obj\Debug\DesPlugin.pdb

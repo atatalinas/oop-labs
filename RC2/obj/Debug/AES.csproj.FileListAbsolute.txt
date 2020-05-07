@@ -1,0 +1,8 @@
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\bin\Debug\RC2.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\bin\Debug\RC2.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\bin\Debug\PluginInterface.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\bin\Debug\PluginInterface.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\obj\Debug\AES.csproj.CopyComplete
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\obj\Debug\RC2.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\RC2\obj\Debug\RC2.pdb

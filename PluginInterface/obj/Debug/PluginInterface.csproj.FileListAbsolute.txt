@@ -1,0 +1,5 @@
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\angel\OneDrive\Рабочий стол\OOP_LABS\OOP_MAIN\PluginInterface\obj\Debug\PluginInterface.pdb
